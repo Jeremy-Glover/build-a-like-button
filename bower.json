@@ -1,0 +1,25 @@
+{
+  "name": "build-a-like-button",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jeremy Glover <jeremyglover33@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-css": "~3.0.3",
+    "font-awesome": "~4.4.0",
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.2"
+  }
+}
